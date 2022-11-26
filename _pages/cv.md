@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Master of Cyber Security, Nanjing University of Science and Technology, 2020.9–-2023.6
+  * GPA: 3.87/4.0 (88.6)  Ranking: 8
 * Bachelor of Computer Science, Nanjing Normal University, 2016.9—-2020.6
+  * GPA: 3.96/4.0 (89.6)  Ranking: 1
 
 Research experience
 ======
