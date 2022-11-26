@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications (full list)"
 permalink: /publications/
 author_profile: true
 ---
 
 
 {% include base_path %}
-
-Conference
-======
-**[1]** **Shang Wang**, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, Dongxi Liu. CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences. ACM ASIACCS, 2023. **CCF C**
 
 Journal
 ======
@@ -19,6 +15,10 @@ Journal
 **[2]** **Shang Wang**, Xin Li, Yongli Song, Mang Su, Anmin Fu. A Trigger Sample Detection Scheme Based on Custom Backdoor Behaviors. Journal of Cyber Security, 2022. **CCF B**
 
 **[1]** Chunyi Zhou, Dawei Chen, **Shang Wang**, Anmin Fu, Yansong Gao. Research and Challenge of Distributed Deep Learning Privacy and Security Attack. Journal of Computer Research and Development, 2021. **CCF A**
+
+Conference
+======
+**[1]** **Shang Wang**, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, Dongxi Liu. CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences. ACM ASIACCS, 2023. **CCF C**
 
 Patent
 ======
