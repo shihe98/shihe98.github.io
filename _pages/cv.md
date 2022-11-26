@@ -27,7 +27,7 @@ Research experience
   
 Skills
 ======
-* English: PTE 59 (L 55 | S 53 | R 61 | W 68)
+* English: PTE 59 (L:55 S:53 R:61 W:68)
 * Programming: C/C++, Java, Python
 
 Honors
