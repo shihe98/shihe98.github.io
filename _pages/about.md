@@ -25,8 +25,8 @@ Publications
 
 Competitions
 ======
-* 2nd place in a NeurIPS 2022 competition, $2000 **Top 2** (2022.6--2022.10) 
-* 1st prize in National Cryptography Competition, ￥3000 **Top 5%** (2021.6--2021.11) 
+* 2nd place in a NeurIPS 2022 competition, **Top 2** (2022.6--2022.10) 
+* 1st prize in National Cryptography Competition, **Top 5%** (2021.6--2021.11) 
 
 For more info
 ------
