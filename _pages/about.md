@@ -25,8 +25,8 @@ Publications
 
 Competitions
 ======
-* 2nd place in a NeurIPS 2022 competition (2022.6--2022.10)
-* 1st prize in National Cryptography Competition (2021.6--2021.11)
+1. 2nd place in a NeurIPS 2022 competition (2022.6--2022.10) 
+2. 1st prize in National Cryptography Competition (2021.6--2021.11) 
 
 For more info
 ------
