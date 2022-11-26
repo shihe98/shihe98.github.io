@@ -40,5 +40,7 @@ Honors
 1. First-Class Scholarship (3 times)
 2. Second-Class Scholarship
 3. Zhu Jingwen Scholarship
-4. Merit Student, Outstanding Student Leader
-5. Excellence in Learning Award, Outstanding SRTP
+4. Merit Student
+5. Outstanding Student Leader
+6. Outstanding SRTP
+7. Excellence in Learning Award
