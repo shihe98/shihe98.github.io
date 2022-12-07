@@ -12,20 +12,20 @@ redirect_from:
 Education
 ======
 * Master of Cyber Security, Nanjing University of Science and Technology, 2020.9–-2023.6
-  * GPA: 3.87/4.0 (88.6) &nbsp; Ranking: 8
+  * GPA: 3.87/4.0 (88.6) &nbsp; **Ranking: 8**
   * Advised by Prof. Anmin Fu and Prof. Yansong Gao
 * Bachelor of Computer Science, Nanjing Normal University, 2016.9—-2020.6
-  * GPA: 3.96/4.0 (89.6) &nbsp; Ranking: 1
+  * GPA: 3.96/4.0 (89.6) &nbsp; **Ranking: 1**
 
 Research experience
 ======
 * Machine Learning Security (2020.9--present)
-1. Broke the backdoor-trigger link to defense source-agnostic and source-specific backdoor attacks, and **published on 2022 IEEE Transactions on Information Forensics and Security**.
-2. Incorporated two trigger designs with the source-specific backdoor attacks to bypass the state-of-the-art backdoor detection, and **accepted to 2023 ACM ASIACCS**.
-3. Focused on the overfit of trigger inputs, and identified them by custom backdoor behaviors, **outperforming the existing input detection schemes**.
+  * Broke the backdoor-trigger link to defense source-agnostic and source-specific backdoor attacks, and **published on 2022 IEEE Transactions on Information Forensics and Security**.
+  * Incorporated two trigger designs with the source-specific backdoor attacks to bypass the state-of-the-art backdoor detection, and **accepted to 2023 ACM ASIACCS**.
+  * Focused on the overfit of trigger inputs, and identified them by custom backdoor behaviors, **outperforming the existing input detection schemes**.
 
 * Privacy-Enhanced Federated Learning (2019.11--present)
-1. Combined federated learning with blinding, secure multi-party computation, implemented on IOT devices considering privacy and efficiency, and **obtained outstanding Bachelor Thesis**.
+  * Combined federated learning with blinding, secure multi-party computation, implemented on IOT devices considering privacy and efficiency, and **obtained outstanding Bachelor Thesis**.
   
 Skills
 ======
@@ -35,14 +35,14 @@ Skills
 Honors
 ======
 * Nanjing University of Science and Technology
-1. Outstanding Graduate Student
-2. First-Class Scholarship (2 times)
-3. Second-Class Scholarship
+  * Outstanding Graduate Student
+  * First-Class Scholarship (2 times)
+  * Second-Class Scholarship
 * Nanjing Normal University
-1. First-Class Scholarship (3 times)
-2. Second-Class Scholarship
-3. Zhu Jingwen Scholarship
-4. Merit Student
-5. Outstanding Student Leader
-6. Outstanding SRTP
-7. Excellence in Learning Award
+  * First-Class Scholarship (3 times)
+  * Second-Class Scholarship
+  * Zhu Jingwen Scholarship
+  * Merit Student
+  * Outstanding Student Leader
+  * Outstanding SRTP
+  * Excellence in Learning Award
