@@ -19,8 +19,8 @@ Education
 
 Reviewer
 ======
-IEEE Transactions on Neural Networks and Learning Systems
-IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Information Forensics and Security
 
 Research experience
 ======
