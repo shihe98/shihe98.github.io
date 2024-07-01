@@ -18,8 +18,6 @@ Journal
 
 **[1]** Chunyi Zhou, Dawei Chen, **Shang Wang**, Anmin Fu, Yansong Gao. Research and Challenge of Distributed Deep Learning Privacy and Security Attack. Journal of Computer Research and Development, 2021. **CCF A (Chinese Journal)**
 
-Hua Ma, Shang Wang, Yansong Gao, Zhi Zhang, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott
-
 Conference
 ======
 **[2]** Hua Ma, **Shang Wang (Co-First)**, Yansong Gao, Zhi Zhang, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott. Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense. ACM CCS, 2024. **CCF A (Big 4)**
