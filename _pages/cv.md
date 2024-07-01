@@ -17,19 +17,23 @@ Education
 * Bachelor of Computer Science, Nanjing Normal University, 2016.9—-2020.6
   * GPA: 3.96/4.0 (89.6) &nbsp; **Ranking: 1**
 
+Reviewer
+======
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Information Forensics and Security
+
 Research experience
 ======
 * Machine Learning Security (2020.9--present)
   * Broke the backdoor-trigger link to defense source-agnostic and source-specific backdoor attacks, and **published on 2022 IEEE Transactions on Information Forensics and Security**.
   * Incorporated two trigger designs with the source-specific backdoor attacks to bypass the state-of-the-art backdoor detection, and **accepted to 2023 ACM ASIACCS**.
-  * Focused on the overfit of trigger inputs, and identified them by custom backdoor behaviors, **outperforming the existing input detection schemes**.
 
 * Privacy-Enhanced Federated Learning (2019.11--present)
   * Combined federated learning with blinding, secure multi-party computation, implemented on IOT devices considering privacy and efficiency, and **obtained outstanding Bachelor Thesis**.
   
 Skills
 ======
-* English: PTE 59 (L:55 S:53 R:61 W:68)
+* English: PTE 68 (L:70 S:62 R:60 W:80)
 * Programming: C/C++, Java, Python
 
 Honors
