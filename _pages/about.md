@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My current research interests are System Security, and AI Security and Privacy. I received my B.Eng degree from Nanjing Normal University of China (NNU) in 2016 and studied at Nanjing University of Science and Technology of China (NJUST), in 2020.
+My current research interests are System Security, and AI Security and Privacy. I received my B.Eng degree from Nanjing Normal University of China (NNU) in 2016 and studied at Nanjing University of Science and Technology of China (NJUST), in 2020. I am currently working toward the PhD degree with the University of Technology Sydney, Sydney, Australia. My research interests include backdoor attack, watermarking and machine unlearning.
 
 Publications
 ======
