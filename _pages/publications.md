@@ -24,3 +24,7 @@ Patent
 ======
 **[1]** Anmin Fu, **Shang Wang**. A Plug-in Trigger Inputs Detection Method. 2022.
 
+Competitions
+======
+**[1]** 2nd place in a NeurIPS 2022 competition, **Top 2** (2022.6--2022.10) 
+**[2]** 1st prize in National Cryptography Competition, **Top 5%** (2021.6--2021.11) 
