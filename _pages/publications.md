@@ -10,6 +10,10 @@ author_profile: true
 
 Journal
 ======
+**[6]** **Shang Wang**, Tianqing Zhu, Dayong Ye, Wanlei Zhou. When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?. arXiv:2410.15267, 2024.
+
+**[5]** Qihao Dong, Shengyuan Yang, Zhiyang Dai, Yansong Gao, **Shang Wang**, Yuan Cao, Anmin Fu, Willy Susilo. CareFL: Contribution Guided Byzantine-Robust Federated Learning. IEEE Transactions on Information Forensics and Security, 2024. DOI: 10.1109/TIFS.2024.3477912. **CCF A**
+
 **[4]** **Shang Wang**, Tianqing Zhu, Bo Liu, Ming Ding, Xu Guo, Dayong Ye, Wanlei Zhou, Philip S. Yu. Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey. arXiv:2406.07973, 2024.
 
 **[3]** Zhenzhu Chen, **Shang Wang**, Anmin Fu, Yansong Gao, Shui Yu, Robert H. Deng. LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check. IEEE Transactions on Information Forensics and Security, 2022. DOI: 10.1109/TIFS.2022.3175616. **CCF A**
