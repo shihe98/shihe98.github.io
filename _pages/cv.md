@@ -21,6 +21,7 @@ Reviewer
 ======
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Information Forensics and Security
+* Computer Standards & Interfaces
 
 Research experience
 ======
@@ -39,10 +40,12 @@ Skills
 Honors
 ======
 * Nanjing University of Science and Technology
+  * **Outstanding Master Thesis**
   * Outstanding Graduate Student
   * First-Class Scholarship (2 times)
   * Second-Class Scholarship
 * Nanjing Normal University
+  * **Outstanding Bachelor Thesis**
   * First-Class Scholarship (3 times)
   * Second-Class Scholarship
   * Zhu Jingwen Scholarship
