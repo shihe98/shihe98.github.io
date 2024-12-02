@@ -39,6 +39,8 @@ Skills
 
 Honors
 ======
+* Jiangsu Province
+  * **Outstanding Master Thesis**
 * Nanjing University of Science and Technology
   * **Outstanding Master Thesis**
   * Outstanding Graduate Student
