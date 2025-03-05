@@ -24,6 +24,8 @@ Journal
 
 Conference
 ======
+**[3]** Dayong Ye, Tianqing Zhu, **Shang Wang**, Bo Liu, Leo Yu Zhang, Wanlei Zhou, Yang Zhang. Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI. USENIX Security, 2025. **CCF A (Big 4)**
+
 **[2]** Hua Ma, **Shang Wang (Co-First)**, Yansong Gao, Zhi Zhang, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott. Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense. ACM CCS, 2024. **CCF A (Big 4)**
 
 **[1]** **Shang Wang**, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, Dongxi Liu. CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences. ACM ASIACCS, 2023. **CCF C (Distinguished Paper Award)**
