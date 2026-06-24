@@ -27,7 +27,7 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=BtAvpB4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=BtAvpB4AAAAJ"
   email            : "shihew98@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/shihe98/"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/YOUR-ORCID-ID"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5114-4659"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
