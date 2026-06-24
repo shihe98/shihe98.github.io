@@ -137,7 +137,7 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 
 - A Plug-in Trigger Inputs Detection Method, Anmin Fu, **Shang Wang**, 2022.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2026* The Vice Chancellor's Conference Fund (3000 AUD), University of Technology Sydney.
 - *2023* **Outstanding Master Thesis**, Jiangsu Province.
