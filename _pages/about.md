@@ -165,6 +165,7 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 - International Conference on Algorithms and Architectures for Parallel Processing 2024
 - Australasian Conference on Information Security and Privacy 2024
 - IEEE Transactions on Information Forensics and Security
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Emerging Topics in Computing
