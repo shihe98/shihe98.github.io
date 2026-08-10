@@ -170,6 +170,7 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Emerging Topics in Computing
 - IEEE Transactions on Artificial Intelligence
+- Information Processing and Management
 - Journal of Systems Architecture
 - Computer Standards & Interfaces
 - Knowledge-Based Systems
