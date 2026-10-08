@@ -125,8 +125,8 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 
 ## 🧾 Journals
 
-- Inverting the Vault: Exposing Privacy Leakage in Multimodal Embedding Databases, Kaiyue Feng, Guangsheng Zhang, **Shang Wang**, Tianqing Zhu, Ming Ding, Hua Zuo, Bo Liu, IEEE Transactions on Dependable and Secure Computing 2026. `CCF A`
-- Parameter-agnostic Privacy-preserving Machine Unlearning for Large Language Models, Lefeng Zhang, Tianqing Zhu, Zihan Xie, **Shang Wang**, Binxing Fang, Wanlei Zhou, IEEE Transactions on Information Forensics and Security 2026. `CCF A`
+- Inverting the Vault: Exposing Privacy Leakage in Multimodal Embedding Databases, Kaiyue Feng, Guangsheng Zhang, **Shang Wang**, Tianqing Zhu, Ming Ding, Hua Zuo, Bo Liu, **IEEE Transactions on Dependable and Secure Computing 2026**. `CCF A`
+- Parameter-agnostic Privacy-preserving Machine Unlearning for Large Language Models, Lefeng Zhang, Tianqing Zhu, Zihan Xie, **Shang Wang**, Binxing Fang, Wanlei Zhou, **IEEE Transactions on Information Forensics and Security 2026**. `CCF A`
 - Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey, **Shang Wang**, Tianqing Zhu, Bo Liu, Ming Ding, Dayong Ye, Wanlei Zhou, Philip S. Yu, **ACM Computing Surveys 2025**. `Top Journal, IF=28`
 - When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?, **Shang Wang**, Tianqing Zhu, Dayong Ye, Wanlei Zhou, **IEEE Transactions on Dependable and Secure Computing 2025**. `CCF A`
 - Isolate Trigger: Detecting and Eradicating Evade-Adaptive Backdoors, Chengrui Sun, Hua Zhang, Haoran Gao, Zian Tian, Jianjin Zhao, Hongliang Zhu, Zongliang Shen, **Shang Wang**, Anmin Fu, **arXiv:2508.04094, 2025**.
