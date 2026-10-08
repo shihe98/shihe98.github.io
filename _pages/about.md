@@ -22,6 +22,7 @@ My research centers on **AI Security & Privacy**, with a particular focus on **b
 
 # 🔥 News
 
+- *2026.09*: 📝 Our paper on privacy leakage in embedding databases accepted by **IEEE TDSC 2026** (CCF A).
 - *2026.06*: 🤝 Invited to serve as a **PC Member** for **USENIX Security 2027**.
 - *2026.06*: 📝 Our paper on parameter-agnostic LLM unlearning accepted by **IEEE TIFS 2026** (CCF A).
 - *2026.01*: 🎉🎉 One paper on robust probabilistic watermarking for dataset copyright protection accepted by **NDSS 2026** (CCF A, Big 4).
@@ -124,6 +125,7 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 
 ## 🧾 Journals
 
+- Inverting the Vault: Exposing Privacy Leakage in Multimodal Embedding Databases, Kaiyue Feng, Guangsheng Zhang, **Shang Wang**, Tianqing Zhu, Ming Ding, Hua Zuo, Bo Liu, IEEE Transactions on Dependable and Secure Computing 2026. `CCF A`
 - Parameter-agnostic Privacy-preserving Machine Unlearning for Large Language Models, Lefeng Zhang, Tianqing Zhu, Zihan Xie, **Shang Wang**, Binxing Fang, Wanlei Zhou, IEEE Transactions on Information Forensics and Security 2026. `CCF A`
 - Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey, **Shang Wang**, Tianqing Zhu, Bo Liu, Ming Ding, Dayong Ye, Wanlei Zhou, Philip S. Yu, **ACM Computing Surveys 2025**. `Top Journal, IF=28`
 - When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?, **Shang Wang**, Tianqing Zhu, Dayong Ye, Wanlei Zhou, **IEEE Transactions on Dependable and Secure Computing 2025**. `CCF A`
