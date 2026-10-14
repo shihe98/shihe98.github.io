@@ -22,6 +22,7 @@ My research centers on **AI Security & Privacy**, with a particular focus on **b
 
 # 🔥 News
 
+- *2026.10*: 🎉🎉 Our paper on defending fine-tuned LLMs against inference-time attacks accepted by **IEEE TIFS 2026** (CCF A).
 - *2026.09*: 📝 Our paper on privacy leakage in embedding databases accepted by **IEEE TDSC 2026** (CCF A).
 - *2026.06*: 🤝 Invited to serve as a **PC Member** for **USENIX Security 2027**.
 - *2026.06*: 📝 Our paper on parameter-agnostic LLM unlearning accepted by **IEEE TIFS 2026** (CCF A).
@@ -125,6 +126,7 @@ CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Back
 
 ## 🧾 Journals
 
+- PAIR: Against Inference-time Attacks on Fine-Tuned LLMs via Path-level Inference Randomization, Jiayang Li, Tianqing Zhu, Dayong Ye, Huan Huo, Xin Yu, **Shang Wang**, Wanlei Zhou, **IEEE Transactions on Information Forensics and Security 2026**. `CCF A`
 - Inverting the Vault: Exposing Privacy Leakage in Multimodal Embedding Databases, Kaiyue Feng, Guangsheng Zhang, **Shang Wang**, Tianqing Zhu, Ming Ding, Hua Zuo, Bo Liu, **IEEE Transactions on Dependable and Secure Computing 2026**. `CCF A`
 - Parameter-agnostic Privacy-preserving Machine Unlearning for Large Language Models, Lefeng Zhang, Tianqing Zhu, Zihan Xie, **Shang Wang**, Binxing Fang, Wanlei Zhou, **IEEE Transactions on Information Forensics and Security 2026**. `CCF A`
 - Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey, **Shang Wang**, Tianqing Zhu, Bo Liu, Ming Ding, Dayong Ye, Wanlei Zhou, Philip S. Yu, **ACM Computing Surveys 2025**. `Top Journal, IF=28`
